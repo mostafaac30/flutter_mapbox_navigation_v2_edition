@@ -1,6 +1,3 @@
-
-[![Pub][pub_badge]][pub] [![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
-
   
 
 # flutter mapbox turn-by-turn navigation v2.8
